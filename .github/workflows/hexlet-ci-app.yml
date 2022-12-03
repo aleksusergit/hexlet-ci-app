@@ -1,5 +1,5 @@
 # file: .github/workflows/hexlet-ci-app.yml
-name: hexlet_ci_app
+name: setup-&-test
 # on – определяет события, которые запускают воркфлоу
 on: push
 jobs:
